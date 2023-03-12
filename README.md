@@ -1,5 +1,4 @@
 
----
 # 👩🏻‍💻 1일 1+알고리즘 풀기 👨🏻‍💻
 
 
@@ -54,8 +53,7 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 <br />
 <br />
 
-## ✅ 참여자와 진행도
-### 🎉 챌린지 달성 🎉
+## ✅ 참여자
 
 
 <table>
@@ -67,7 +65,7 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
         <td align="center"><a href="https://github.com/GreenBNN"><img src="https://avatars.githubusercontent.com/u/55528398?v=4" width="100px;" alt=""/>         
          <br /><sub><b>GreenBNN</b><br></sub></a><br /></td>
          <td align="center"><a href="https://github.com/kwonET"><img src="https://avatars.githubusercontent.com/u/91445593?v=4" width="100px;" alt=""/>         
-         <br /><sub><b>kwonET"</b><br></sub></a><br /></td>
+         <br /><sub><b>kwonET</b><br></sub></a><br /></td>
 </tr>
 </table>
 
