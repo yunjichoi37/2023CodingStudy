@@ -64,7 +64,7 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
          <br /><sub><b>sunghyun1356</b><br></sub></a><br /></td>
         <td align="center"><a href="https://github.com/GreenBNN"><img src="https://avatars.githubusercontent.com/u/55528398?v=4" width="100px;" alt=""/>         
          <br /><sub><b>GreenBNN</b><br></sub></a><br /></td>
-         <td align="center"><a href="https://github.com/kwonET"><img src="https://avatars.githubusercontent.com/u/91445593?v=4" width="100px;" alt=""/>         
+         <td align="center"><a href="https://github.com/kwonET"><img src="https://avatars.githubusercontent.com/u/49463954?v=4" width="100px;" alt=""/>         
          <br /><sub><b>kwonET</b><br></sub></a><br /></td>
 </tr>
 </table>
