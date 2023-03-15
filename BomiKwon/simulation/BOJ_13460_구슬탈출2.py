@@ -1,4 +1,4 @@
-# sw역량테스트 기출 문제 01 - 구슬탈출2
+# 삼성sw역량테스트 기출 문제 01 - 구슬탈출2
 # 0314 
 
 from collections import deque
