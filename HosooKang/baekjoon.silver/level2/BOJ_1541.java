@@ -1,4 +1,4 @@
-package kanghosoo.baekjoon.silver.level2;
+package baekjoon.silver.level2;
 
 import java.util.Scanner;
 
