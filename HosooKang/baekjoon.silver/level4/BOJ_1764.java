@@ -1,4 +1,4 @@
-package kanghosoo.baekjoon.silver.level4;
+package baekjoon.silver.level4;
 
 import java.util.ArrayList;
 import java.util.Comparator;
