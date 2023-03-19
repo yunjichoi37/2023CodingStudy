@@ -7,7 +7,8 @@
 2. 생성된 원격 저장소에 `이름` 혹은 `github ID`로 폴더를 생성한다.
 3. 생성된 폴더에 자신의 소스코드를 업로드 한다. (폴더명에 콜론":" 안됩니다!)
 4. 이때 `commit 규칙`을 지키도록한다!
-5. 원본 저장소로 `Pull Request`를 한다. (매주 4문제 이상, 매주 **토요일**에 Merge예정)
+5. 원본 저장소로 `Pull Request`를 한다. (매주 4문제 이상, 매주 **일요일**에 Merge예정)
+    -  일요일까지 PR이 안 될 시 스터디비 까임 !
 6. 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
 
 
@@ -59,13 +60,21 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 <table>
 <tr>
          <td align="center"><a href="https://github.com/hosoo3513"><img src="https://avatars.githubusercontent.com/u/91445593?v=4" width="100px;" alt=""/>         
-         <br /><sub><b>hosoo3513</b><br></sub></a><br /></td>
+         <br /><sub><b>hosoo3513</b><br></sub>
+         <sub><b>💰 30000</b><br></sub>
+         </a><br /></td>
         <td align="center"><a href="https://github.com/sunghyun1356"><img src="https://avatars.githubusercontent.com/u/48240083?v=4" width="100px;" alt=""/>         
-         <br /><sub><b>sunghyun1356</b><br></sub></a><br /></td>
+         <br /><sub><b>sunghyun1356</b><br></sub>
+         <sub><b>💰 30000</b><br></sub>
+         </a><br /></td>
         <td align="center"><a href="https://github.com/GreenBNN"><img src="https://avatars.githubusercontent.com/u/55528398?v=4" width="100px;" alt=""/>         
-         <br /><sub><b>GreenBNN</b><br></sub></a><br /></td>
+         <br /><sub><b>GreenBNN</b><br></sub>
+         <sub><b>💰 30000</b><br></sub>
+         </a><br /></td>
          <td align="center"><a href="https://github.com/kwonET"><img src="https://avatars.githubusercontent.com/u/49463954?v=4" width="100px;" alt=""/>         
-         <br /><sub><b>kwonET</b><br></sub></a><br /></td>
+         <br /><sub><b>kwonET</b><br></sub>
+         <sub><b>💰 30000</b><br></sub>
+         </a><br /></td>
 </tr>
 </table>
 
