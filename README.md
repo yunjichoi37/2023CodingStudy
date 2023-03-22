@@ -75,6 +75,11 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
          <br /><sub><b>hamuneulbo</b><br></sub>
          <sub><b>💰 30000</b><br></sub>
          </a><br /></td>
+         <td align="center"><a href="https://github.com/yunjichoi37"><img src="https://avatars.githubusercontent.com/u/128466786?v=4" width="100px;" alt=""/>         
+         <br /><sub><b>yunjichoi37</b><br></sub>
+         <sub><b>💰 30000</b><br></sub>
+         </a><br /></td>
+         
 </tr>
 </table>
 
